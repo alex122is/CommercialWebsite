@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/mnt/c/Users/Alex/DatingApp"
+		},
+		{
+			"uri": "vscode-remote://wsl+ubuntu/mnt/c/Users/Alex/Desktop/Commercial wensite/Plumber-Website"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu",
+	"settings": {}
+}
